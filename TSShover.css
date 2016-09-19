@@ -1,0 +1,15 @@
+.box1:hover, .box2:hover, .box3:hover, .box4:hover, .box5:hover, .rotateButton:hover {
+  background-color: #5ca4d6;
+  color: white;
+  opacity: 1;
+}
+
+.box4:hover .colorMenu{
+  top: -7em;
+  opacity: 1;
+}
+
+.box3:hover .sizeMenu {
+  top: -13.1em;
+  opacity: 1;
+}
